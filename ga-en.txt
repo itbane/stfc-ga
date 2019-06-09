@@ -1,0 +1,17 @@
+GA: A miner can be killed only in these cases:
+- There is something gained from the kill: loot or freeing up an empty node when there is no other free node nearby of the type that will be spawned in it's place
+
+covered by GA:
+* a miner engaged in mining
+* going to a mine
+* coming from a mine
+* waiting next to a mine when no loot is available
+
+not covered by GA:
+* miners engaged in other activities
+* miners using a node only for hiding
+* a pvp event is active and gives points for killing miners
+  - If there is a pvp event announced by scopely it should be announced in Galaxy Chat and on discord that GA will be dropped at the start of the event.
+  - If there is an unannounced pvp event it should be announced on discord and GC that GA will be dropped, however there will be a cool down period of 2 hours before the GA is actually dropped. During this cooldown period frequent reminders should be posted in GC that there is a pvp event and GA is about to be dropped.
+
+This GA will apply to anyone represented in the diplo channel. Every alliance is encouraged to send their leaders or a delegate to this channel and can join the GA by doing this Violations against GA should be discussed between players first, only if that yields no result should it be discussed through leadership. Remember that accidents can happen, but try to avoid them by not warping straight to mines.

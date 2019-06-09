@@ -1,0 +1,17 @@
+Ein Minenschiff darf abgeschossenen werden wenn:
+- Es Fracht zu holen gibt
+- Es auf einer leeren Mine (zero node) und gleichzeitig keine passende Mine im selben System frei ist
+
+Durch GA geschuetzt sind Minenschiffe ohne Fracht die
+*  aktiv minen
+*  auf dem Weg zu einer Mine sind
+*  von einer Mine kommen
+* ohne Fracht neben einer Mine warten
+
+Nicht geschuetzt sind Minenschiffe die
+* andere Aktivitäten verwickelt sind (base-raid, ress-farming)
+* Minen benutzen um sich darauf zu “verstecken”.
+
+Wenn ein PVP Event stattfindet und es Eventpunkte für das Abschießen von Minenschiffen gibt, wird GA außer Kraft gesetzt. Etwaige NAP’s gelten.
+* Wenn ein pvp event von scopely angekündigt wird soll im Global Chat (GC) und auf discord angekündigt werden, dass GA mit Beginn des Events und für die Dauer des PVP Events ausgesetzt wird
+* falls ein pvp event ohne vorangehende Ankuendigung startet, so wird ein 2h Warnsystem vereinbart bevor GA ausgesetzt wird. wer auch immer das Event zuerst entdeckt schreibt eine Benachrichtigung in GC und auf discord dass ein pvp event started und ein 2h cooldown gestartet wird
